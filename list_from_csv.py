@@ -1,6 +1,5 @@
 import pandas as pd
 import random
-import numpy as np
 
 df = []
 filename = 'Employees_Birthday_Report_FINAL.csv'
